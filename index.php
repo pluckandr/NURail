@@ -32,16 +32,40 @@ div.feature-project {
   <div class="nurail-banner"> <img src="resources/images/nurail-banner.png" class="img-responsive" alt="NURail banner"> </div>
 </header>
 <nav>
-  <?php 
-                $page = "home";
-                require_once(__DIR__.'/includes/header.php');
-            ?>
+  <?php $page = "home";
+        require_once(__DIR__.'/includes/header.php');?>
 </nav>
 <section>
   <div class="section">
     <div class="container">
       <div class="row">
         <div class="col-sm-8" style="margin-top:10px">
+
+
+          <div class="panel panel-body">
+            <div class="panel-body">
+              <h3 class="text-navy"> Youth Summer Rail Program <br>
+                <small class="text-illini">March 5, 2015</small> </h3>
+                <h3><img width="30%" class = " " src="resources/images/syp14.jpg" class="img-responsive" alt="Youth Summer Rail Program"></h3>
+              <p>
+                NURail Partner, Michigan Technological University, is gearing up to host the 
+                <a href="https://webmail.illinois.edu/owa/redir.aspx?C=4XUGLPtpPU-w_d2LJVrHwIwU0S4VLtIIFIk2-TaIQVCmUhnET7GRFbXSM0SlZeJwi_jNso9oqHc.&URL=http%3a%2f%2fwww.rail.mtu.edu%2fsummer_youth.html" target="blank">6th Annual Rail and Intermodal Transportation Summer Youth Program </a>
+                on July 26 – August 1 in Houghton, MI. This program is sponsored by 
+                the NURail Center and is a weeklong investigation designed to create awareness and 
+                stimulate interest in the areas of rail and intermodal transportation. 
+                Student in grades 9 – 11 are encouraged to apply and scholarships are available. 
+                <a href="https://webmail.illinois.edu/owa/redir.aspx?C=4XUGLPtpPU-w_d2LJVrHwIwU0S4VLtIIFIk2-TaIQVCmUhnET7GRFbXSM0SlZeJwi_jNso9oqHc.&URL=http%3a%2f%2fwww.syp.mtu.edu%2fdocs%2fRTP_App.pdf" target="blank">Applications</a> are due by May 2.
+              </p>
+            </div>
+          </div>
+
+          <div class="panel panel-body">
+            <div class="panel-body">
+              <h3 class="text-navy"> NURail Principal Investigator named Fulbright Scholar <br>
+                <small class="text-illini">March 3, 2015</small> </h3>
+              <p>Congratulations to Civil and Materials Engineering Professor Craig Foster at the University of Illinois at Chicago for being named a 2015-16 U.S. Fulbright Scholar. Professor Foster's work is to study earthen buildings in India. Click <a href="http://www.cs.uic.edu/bin/view/CME/ComputerModeling" target="blank">here</a> to read the UIC News Bureau article for additional information. For the NURail Center, Professor Foster is the principal investigator for the project titled <a href="http://www.nurailcenter.org/research/nurail2012-uic-r01" target="blank">“Modeling of Rail Track Substructure and Rail Vehicle Energy Dissipation”</a>. Congratulations to all!</p>
+            </div>
+          </div>
           
           <div class="panel panel-body">
             <div class="panel-body">
@@ -66,15 +90,7 @@ div.feature-project {
               <p>Over 60 NURail students from the partner universities attended the 2014 AREMA Conference in Chicago in September. In addition to attending sessions and giving poster presentations, many worked the NURail booth in the exhibition hall.</p>
             </div>
           </div>
-          <div class="panel panel-body">
-            <div class="panel-body">
-              <h3 class="text-navy"> Railway Engineering Education Symposium<br>
-                <small class="text-illini">June 23, 2014</small> </h3>
-              <img src="resources/images/nurail-rees.png" class="img-responsive" alt="REES presentation">
-              <p>Professors from around the country attended the Railway Engineering Education Symposium (REES) on June 23-25, 2014 in Overland Park, Kansas. NURail helped sponsor the event. The objective of the symposium was to further inform the professors of the workforce crisis and give them materials to educate students about railway infrastructure, performance, engineering, and design at their respective universities. It also included trips to BNSF Railway&#39;s Freight Yard and the Kansas City Intermodal Facility.</p>
-            </div>
-          </div>
-        </div>
+          
         <div class="col-sm-4">
           <h4>Featured Project</h4>
           <hr>
@@ -89,24 +105,8 @@ div.feature-project {
           <h4>Upcoming Events</h4>
           <hr>
           <div class="well well-event">
-            <div class="row">
-              <div class="col-xs-3 col-sm-4 col-md-3">
-                <div class="date-box"> <span class="date-month">Nov</span> <span class="date-day">14</span> </div>
-              </div>
-              <div class="col-xs-9 col-sm-8 col-md-9">
-                <p> <strong>12:00p.m. <span class="text-illini">Urbana, IL</span></strong><br>
-                  William W. Hay Railroad Engineering Seminar </p>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-xs-3 col-sm-4 col-md-3">
-                <div class="date-box"> <span class="date-month">Jan</span> <span class="date-day">11</span> </div>
-              </div>
-              <div class="col-xs-9 col-sm-8 col-md-9">
-                <p> <strong>2:00p.m. <span class="text-illini">Washington, DC</span></strong><br>
-                  NURail Meeting at TRB </p>
-              </div>
-            </div>
+            
+            
             <div class="row">
               <div class="col-xs-3 col-sm-4 col-md-3">
                 <div class="date-box"> <span class="date-month">Jun</span> <span class="date-day">4</span> </div>
@@ -116,8 +116,38 @@ div.feature-project {
                   NURail Annual Meeting </p>
               </div>
             </div>
-          </div>
-		  
+
+            <div class="row">
+              <div class="col-xs-3 col-sm-4 col-md-3">
+                <div class="date-box"> <span class="date-month">Jun</span> <span class="date-day">3</span> </div>
+              </div>
+              <div class="col-xs-9 col-sm-8 col-md-9">
+                <p> <strong>1:00p.m. <span class="text-illini">Chicago, IL</span></strong><br>
+                  NURail Annual Meeting begins </p>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-3 col-sm-4 col-md-3">
+                <div class="date-box"> <span class="date-month">Mar</span> <span class="date-day">23</span> </div>
+              </div>
+              <div class="col-xs-9 col-sm-8 col-md-9">
+                <p> <strong>1:00p.m. <span class="text-illini">San Jose, CA</span></strong><br>
+                  Joint Rail Conference </p>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-3 col-sm-4 col-md-3">
+                <div class="date-box"> <span class="date-month">Mar</span> <span class="date-day">13</span> </div>
+              </div>
+              <div class="col-xs-9 col-sm-8 col-md-9">
+                <p> <strong>12:00p.m. <span class="text-illini"></span></strong><br>
+                  William W. Hay Railroad Engineering Seminar Dan Peltier, BNSF </p>
+              </div>
+            </div>
+
+            
 		  <h4> Who We Are </h4>
           <hr>
 		  

@@ -63,7 +63,6 @@
                 <span class="full-name">Michael P. Melaniphy</span>
                 <br />American Public Transportation Association
                 <br />President and Chief Executive Officer,
-                <br />American Public Transportation Association
                 <br />1666 K Street NW, Suite 1100
                 <br />Washington, DC 20006
                 

@@ -24,7 +24,14 @@
                          <div class="col-sm-12">
                             <div class="col-sm-8 panel panel-body">
                             <h1> Workforce Development Projects</h1>
-                             <h3><img src="../resources/images/page_coming.jpg"/></h3>
+                            <a class="anchor" id="UIC"></a>
+                            <h4>University of Illinois at Chicago</h4>
+                              
+                             <span class="subject-name"><a href="#">IDOT/CUPPA Workforce Development Initiative</a></span><br><br>
+
+                             This program, administered by the Urban Transportation Center, is designed to create a partnership between IDOT and the UIC College of Urban Planning and Public Affairs to assist in the development of the IDOT workforce and train graduate students in areas that are critical to IDOT’s future workforce needs.   In particular, the Initiative will assist IDOT in integrating the goals and objectives established through the State Long Range Transportation Plan into the work of all IDOT division personnel.  CUPPA is responsible for (1) two research projects performed by graduate students in Planning and Public Administration; and (2) placement of two additional graduate student interns from those programs at IDOT.  The third aspect of the Initiative will be to have greater IDOT participation in CUPPA curricula and courses to better train IDOT personnel and meet the longer term training needs of IDOT.   The initial funding for the initiative runs through June 2015
+                             
+                             <br>
                             </div>
                             <!--<div class="col-sm-4 right-col" >
 								<h4>Years</h4>

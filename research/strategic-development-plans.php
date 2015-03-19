@@ -25,12 +25,12 @@
                             <div class="col-sm-8 panel panel-body">
                             <h1>Strategic Development Plans</h1>
                             NURail Center developed Strategic Development Plans (SDP) to provide guidance and focus during the course of the UTC grant, and beyond. This involves a variety of sub-themes needing both short- and long-term research, ranging from technology and operations, to planning and policy as follows:<br><br>
-•	Integrated Railroad Track/Vehicle Interaction and Dynamics Modeling<br>
-•	Railroad Safety and Risk<br>
-•	Rail Network Capacity Analysis and Planning<br>
-•	Urban, Regional and High-Speed Passenger Rail Implementation<br>
-•	Multimodal Freight Transportation<br>
-•	Funding, Finance, Community and Economic Development<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Integrated Railroad Track/Vehicle Interaction and Dynamics Modeling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Railroad Safety and Risk<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Rail Network Capacity Analysis and Planning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Urban, Regional and High-Speed Passenger Rail Implementation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Multimodal Freight Transportation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Funding, Finance, Community and Economic Development<br>
 
                             </div>
                             <!--<div class="col-sm-4 right-col" >

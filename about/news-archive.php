@@ -28,6 +28,15 @@
 							
 							
 							<a class="anchor" id="2014"></a><h4>2014</h4>
+
+<div class="panel panel-body">
+  <div class="panel-body">
+    <h3 class="text-navy"> Railway Engineering Education Symposium<br>
+      <small class="text-illini">June 23, 2014</small> </h3>
+    <img src="../resources/images/nurail-rees.png" class="img-responsive" alt="REES presentation">
+    <p>Professors from around the country attended the Railway Engineering Education Symposium (REES) on June 23-25, 2014 in Overland Park, Kansas. NURail helped sponsor the event. The objective of the symposium was to further inform the professors of the workforce crisis and give them materials to educate students about railway infrastructure, performance, engineering, and design at their respective universities. It also included trips to BNSF Railway&#39;s Freight Yard and the Kansas City Intermodal Facility.</p>
+  </div>
+</div>
 URBANA, IL (August 25, 2014) - The first William W. Hay Railroad Engineering Seminar is scheduled for Friday, August 29 at noon. The guest speakers will be Eric Pachman and Mark Dingler of CSX. The title of their presentation is “Railroad Capacity Analytics at CSX". See the <a target="blank" href="http://railtec.illinois.edu/CEE/seminar.php">Hay Seminar page</a> for more details. <br><br>
 URBANA, IL (August 25, 2014) - The NURail annual meeting, held this year in Altoona, PA on August 18 – 19, was hosted by NURail Affiliate Member Penn State Altoona. The two day meeting provided the opportunity to recap highlights of the previous year and discuss plans for 2015. In addition, a variety of presentations on education, outreach, workforce development, and research were given. To see copies of the presentations, click <a  href="../tech-and-pub/annual-meeting.php">here</a>. <br><br>
 <table style="width:100%">

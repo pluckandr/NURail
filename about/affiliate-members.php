@@ -30,7 +30,9 @@ padding:2px;
                         <div class="col-sm-12">
                             <div class="col-sm-8  panel panel-body" style=" ">
                             <h1>Affiliate Members</h1>
-                            A growing demand for rail transportation education and research requires a growing academic capacity in the United States. NURail members are well positioned to facilitate this change. As part of our efforts to broaden the NURail Center’s impact, we have created a NURail Affiliates program involving faculty from other colleges and universities. Benefits of this program include: <br><br>
+                            A growing demand for rail transportation education and research requires a growing academic capacity in the United States. NURail members are well positioned to facilitate this change. As part of our efforts to broaden the NURail Center’s impact, we have created a NURail Affiliates program involving faculty from other colleges and universities. <br>
+                            <br><h4><img src="images/map.png"></h4><br>
+                            Benefits of this program include: <br><br>
                             <ul>
                               <li>Participation in NURail’s annual meeting, workshops, seminars and conferences</li>
                               <li>Visits to campuses</li>

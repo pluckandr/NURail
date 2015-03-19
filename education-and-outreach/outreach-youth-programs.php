@@ -26,7 +26,7 @@
                             <h1> Outreach & Youth Programs</h1>
                             
                             <a class="anchor" id="UI"></a>
-                            <h4>University of Illinois</h4>
+                            <h4>University of Illinois at Urbana-Champaign</h4>
  
 <span class="subject-name"><a href="http://eoh.ec.illinois.edu/" target="_blank">Engineering Open House</a></span><br><br>
 
@@ -54,7 +54,7 @@ Why are trains called the "green transportation alternative"? How fast can high-
 								<h4>Years</h4>
 								<hr>
 								<ul>
-								  <li><a href="#UI"> University of Illinois</a></li>
+								  <li><a href="#UI"> University of Illinois at Urbana-Champaign </a></li>
 								  <li><a href="#MT"> Michigan Tech </a></li>
 								</ul>
                              </div>

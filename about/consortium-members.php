@@ -47,7 +47,17 @@
 <h4><img src="images/logos/uic.png"/></h4><br>
 
 University of Illinois at Chicago (UIC) is a leader in the areas of railway mechanical engineering and transportation planning and transit. UIC and UIUC both have strong collaborative relationships with all the major freight and passenger railroads in the Midwest. Due to the importance of rail in the state, the Illinois Department of Transportation (IDOT) has an extensive rail program supporting freight, intercity passenger and urban rail transport, including extensive research at both institutions. In a recent collaboration with IDOT, UIUC and UIC completed a preliminary feasibility study for a HSR system connecting Chicago, Champaign, St Louis and Indianapolis. <br><br>
-	The Urban Transportation Center at UIC is a research center affiliated with the Department of Urban Planning and Policy’s master’s and Ph.D. program and the specialization in urban transportation. A variety of departments throughout the university offer transportation courses many of which involve a rail component. Courses like Principles of Computational Transportation Science, Advanced Transportation Demand Analysis, and Railroad Vehicle Dynamics in the College of Engineering, complemented by Funding and Finance of Transportation Projects and Economic Analysis of Public Expenditures, showcase the diverse research and education opportunities at UIC.
+	The Urban Transportation Center (UTC) is a research unit dedicated to innovative transportation research and education 
+  that provides technical assistance on urban transportation planning, policy, operations, finance and management. 
+  Part of the<a href="http://www.uic.edu/cuppa/" target="blank"> College of Urban Planning & Public Affairs</a> at the <a href="http://www.uic.edu/" target="blank">University of Illinois at Chicago (UIC)</a>, the UTC is a nationally-recognized 
+  innovator in research, education and engagement that benefits transportation networks in cities and metropolitan areas across America. 
+  Research is concentrated in these four core clusters:
+<ul>
+  <li>Transit planning, operations and managementc</li>
+  <li>Transportation funding and financing</li>
+  <li>Freight planning operations and management</li>
+  <li>Data development for transportation planning and analysis</li>
+</ul>
 
 <hr class="clear-both short" /> 
 <a class="anchor" id="Massachusetts Institute of Technology"></a>
@@ -79,8 +89,8 @@ Michigan Technological University’s (Michigan Tech) Rail Transportation Progra
 
  
 
-	University of Kentucky (UK) was a leader in the development of the rail system in the United States, having one of the first operative railroads in 1831.  Its rail system has had a major presence on the development and sustainability of the state’s coal industry since the very early 1900s.   Several of this nation’s major north-south heavy traffic rail lines -- CSX, NS, and CN – pass through Kentucky.  These comprise the bulk of Kentucky’s over 2,500 miles of track. This is augmented with local collector lines mainly operated by smaller rail companies.  <br><br>
-	The Civil Engineering Department at the University of Kentucky was an early leader among universities in the re-establishment of an academic emphasis in railway transportation beginning in the early 1980s.  The Rail-Related Research Program is a major component of UK’s railway emphasis.  Numerous Research Projects have been conducted during the past thirty years.  These are funded by a combination of railroad companies, governmental agencies, and individuals.  Over fifty graduate and undergraduate students have participated in these studies.
+	The Commonwealth of Kentucky was a leader in the development of the rail system in the United States, having one of the first operative railroads in 1831. Its rail system has had a major influence on the development and sustainability of the state’s industry since the very early 1900s. Several of the nation’s major north-south heavy traffic rail lines -- CSX, NS, and CN, and an important regional, P&L – pass through Kentucky, comprising the bulk of Kentucky’s over 2,500 miles of track. This is augmented with local collector lines mainly operated by smaller rail companies, including RJ Corman RR, which provides emergency derailment response and repair services across the US.  <br><br>
+	The Civil Engineering Department at the University of Kentucky (UK) was an early leader among universities in the re-establishment of an academic emphasis in railway transportation beginning in the early 1980s. The Rail-Related Research Program is a major component of UK’s railway emphasis. Numerous Research Projects have been conducted during the past thirty years and strong partnerships with Class I, regional and short lines railroads. UK’s projects are funded by a combination of railroad companies, governmental agencies, and individuals. Over sixty graduate and undergraduate students have participated in these studies.
 	
 	<hr class="clear-both short" /> 
 

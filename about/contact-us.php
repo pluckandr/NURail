@@ -1,5 +1,21 @@
 <!DOCTYPE html>
 <link rel="shortcut icon" href="../logo.png">
+<style type="text/css">
+#wrap {
+   width:800px;
+   margin:0 auto;
+}
+#left {
+    float: left;
+    width: 50%;
+}
+#right {
+    float: right;
+    width: 50%;
+}
+</style>
+
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -24,17 +40,30 @@
                             <div style=" " class="panel panel-body">
                             <h2>Contact Us</h2>
                             <h4>NURail Center</h4><br>
-University of Illinois at Urbana-Champaign<br>
-1239B Newmark Engineering Laboratory, MC-250<br>
-205 N. Mathews Ave<br>
-Urbana, IL 61801 <br>
-Tel: (217) 244-4999 <br>
-Fax: (217) 333-1924 <br>
-Email: <a href="mailto: NURail-Center@illinois.edu">NURail-Center@illinois.edu</a><br><br>
-<p><a target="_blank" href="http://illinois.edu/map/view?amp;buildingId=369">View Larger Map</a></p>
-
-<iframe width="100%" scrolling="no" height="650" frameborder="0" src="http://illinois.edu/map/view?skinId=4830&buildingId=24"></iframe>
-                            
+                            <div id="wrap">
+                                <div id="left">
+                                    <p>
+                                        University of Illinois at Urbana-Champaign <br>
+                                        1239B Newmark Engineering Laboratory, MC-250<br>
+                                        205 N. Mathews Ave<br>
+                                        Urbana, IL 61801 <br>
+                                        Tel: (217) 244-4999 <br>
+                                        Fax: (217) 333-1924 <br>
+                                        Email: <a href="mailto: NURail-Center@illinois.edu">NURail-Center@illinois.edu</a><br>
+                                        
+                                    </p>
+                                </div>
+                                <div id="right">
+                                    <img src="images/logo.png" alt="NURail Logo">
+                                </div>  
+                            </div>
+                            </br>                            
+                             
+                                <div id="center">
+                                    <iframe width="100%" scrolling="no" height="650" frameborder="0" src="http://illinois.edu/map/view?skinId=4830&buildingId=24"></iframe>
+                                    <!--<a target="_blank" href="http://illinois.edu/map/view?amp;buildingId=369" style="">View Larger Map</a>-->
+                                </div>  
+                                                       
                           </div>
                         </div>
                     </div>

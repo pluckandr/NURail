@@ -30,7 +30,7 @@ The NURail Center is the first USDOT OST-R University Transportation Center dedi
 
 
 <h4><image src="images/overview/1.jpg" width="280px" />&nbsp;&nbsp;
-<image src="images/overview/2.png"  width="280px" /> </h4><br><br> 
+<image src="images/overview/2.jpg"  width="280px" /> </h4><br><br> 
 
  
 
@@ -44,7 +44,9 @@ Beyond education, the NURail Center mission includes outreach to a wide range st
 
 <a class="anchor" id="Rail Education"></a><h4>Rail Education</h4>
 The NURail Center is leading efforts to expand and improve railway engineering and transport education in North America.  NURail Center faculty are developing new rail educational materials, courses and curricula; engaging and encouraging new faculty interest in teaching rail topics, and supporting and inspiring student interest on NURail Center campuses, and beyond.   NURail Center educators will increase the breadth and depth of rail educational materials for both undergraduate and graduate students, as well as increasing course availability through traditional, short-course and on-line delivery.<br><br>
- 
+
+<h4><image src="images/overview/edu-1.jpg" width="280px" /> &nbsp;&nbsp;
+<image src="images/overview/edu-2.jpg" width="280px" /> </h4><br><br>
 
 
 <a class="anchor" id="Technology Transfer"></a><h4>Technology Transfer</h4>
@@ -81,6 +83,9 @@ The overarching objective of the NURail Center   technical research plan is to s
 <h4><a class="anchor" id="Cooperative Research and Development"></a>Cooperative Research and Development</h4>
 In addition to research collaboration among NURail Center partners, faculty and students are actively involved in collaboration and cooperative research projects with other colleges and universities, railroads, railway suppliers, consulting firms and railway organizations such as the Association of American Railroads and Federal Railroad Administration.   The NURail Center collaboration and strategic development planning process strengthens these efforts by providing means for increased communication and interaction between NURail Center participants involved in the respective programs, allowing synergies to be  more  easily  identified  and  developed.     The  NURail Center is also engaged in developing international cooperative research agreements with universities, railway research institutes and railroads in Europe and Asia, allowing the consortium to draw upon the global body of railroad  knowledge  and  facilitate  its  use  by  North American railroads.
 
+<h4><image src="images/overview/coop-1.jpg" width="20%" /> &nbsp;&nbsp;
+<image src="images/overview/coop-2.jpg" width="20%" /> &nbsp;&nbsp;
+<image src="images/overview/coop-3.jpg" width="20%" /> </h4><br><br>
 
                             
                             
